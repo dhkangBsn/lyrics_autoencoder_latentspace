@@ -2,4 +2,5 @@
 
 - input : embedding vector from korean lyrics datasets
 - use model : auto encoder 
-- result : latent_space.png
+- result insight : latent_space.png
+- to do : Auto Encoder + Kullback-Leibler Divergence
