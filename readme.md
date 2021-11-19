@@ -1,4 +1,4 @@
-### ratent space experiments
+### latent space experiments
 
 - input : embedding vector using CBOW Embeeding from korean lyrics datasets
 - use model : auto encoder, kmeans, t-sne
